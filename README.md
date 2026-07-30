@@ -1,11 +1,6 @@
 # Non-Grid Mechanical & Magnetic Signal Amplification Suite
-
+![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 A comprehensive engineering portfolio detailing zero-electricity, non-grid acoustic and signal amplification machines. Designed for high fidelity, passive power gain, and complete off-grid reliability.
-
----
-![Status](https://img.shields.io/badge/Status-Research_POC-orange)
-![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
----
 
 ## Portfolio Directory
 
