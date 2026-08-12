@@ -1,5 +1,6 @@
 # Non-Grid Mechanical & Magnetic Signal Amplification Suite
 
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21708465.svg)](https://doi.org/10.5281/zenodo.21708465) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 ---
@@ -30,3 +31,5 @@ A comprehensive engineering portfolio detailing zero-electricity, non-grid acous
 * **Python 3.x** (`numpy`, `scipy`, `matplotlib`) — Acoustic & helium gas dynamics modeling.
 * **OpenSCAD** — Parametric 3D CAD modeling & animation.
 * **FreeCAD / MeshLab** — STL to STEP conversions for CNC machining.
+
+Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
